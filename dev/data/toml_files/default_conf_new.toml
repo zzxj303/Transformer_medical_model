@@ -1,0 +1,27 @@
+[features]
+
+    [feature.his_NACCREAS]
+    type = "categorical"
+    num_categories = 3
+
+    [feature.bat_MMSECOMP]
+    type = "categorical"
+    num_categories = 2
+
+    [feature.his_NACCAGE]
+    type = "numerical"
+    shape = [1]
+
+    [feature.bat_NACCMMSE]
+    type = "numerical"
+    shape = [1]
+
+[labels]
+
+    [label.NC]
+    type = "categorical"
+    num_categories = 2
+
+    [label.DE]
+    type = "categorical"
+    num_categories = 2

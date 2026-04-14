@@ -1,0 +1,5 @@
+ID,his_NACCREAS,bat_MMSECOMP,his_NACCAGE,bat_NACCMMSE,NC,DE
+smoke_tst_000,0,0,60,18,1,0
+smoke_tst_001,1,1,61,20,1,0
+smoke_tst_002,2,0,62,22,0,1
+smoke_tst_003,0,1,63,24,0,1
